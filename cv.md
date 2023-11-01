@@ -1,8 +1,10 @@
 # Sergey Kolesnyk
+
 ```mermaid
 graph TD;
 A[Contacts] --> B(phone: + 38 093 111 58 01)
 ```
+
 ||A Quick Introduction to Who I Am:||
 |-|--|-|
 
