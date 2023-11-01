@@ -1,12 +1,9 @@
 # Sergey Kolesnyk
 
-```mermaid
-graph TD;
-A[Contacts] --> B(phone: + 38 093 111 58 01)
-```
+> [!Contacts]
+> phone: + 38 093 111 58 01
 
-||A Quick Introduction to Who I Am:||
-|-|--|-|
+## :yum: A Quick Introduction to Who I Am: 	:speech_balloon:
 
 
 Hello, I'm Sergey Kolesnyk, and I'd like to introduce myself. I'm a graduate of the Odessa National Maritime Academy, where I honed my problem-solving skills and attention to detail. Alongside my maritime education, I have also delved into the world of programming, acquiring a diverse skill set.
@@ -17,8 +14,7 @@ To further enhance my programming knowledge, I've also completed a range of free
 
 In summary, I'm a graduate of the Odessa National Maritime Academy with a strong background in programming, thanks to my experience with multiple languages and my dedication to continuous learning through online courses. I'm enthusiastic about applying my skills to tackle new challenges and contribute to innovative projects.
 
-||JavaScript code example:||
-|-|--|-|
+## :pencil: JavaScript code example:
 
 ```javascript
 function getRandomInspirationalQuote() {
@@ -41,7 +37,7 @@ console.log(randomQuote);
 
 ```
 
-## My work place: 
+## :ship: My work place: 
 
 ![container vessel](https://upload.wikimedia.org/wikipedia/commons/8/83/Resim_057.jpg)
 
