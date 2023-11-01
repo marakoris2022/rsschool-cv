@@ -1,1 +1,1 @@
-# rsschool-cv
+https://github.com/marakoris2022/rsschool-cv/blob/9d92c4617ced394ab7d282923732eb0030cffcbb/cv.md
