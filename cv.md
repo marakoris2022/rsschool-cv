@@ -18,7 +18,7 @@ In summary, I'm a graduate of the Odessa National Maritime Academy with a strong
 ||JavaScript code example:||
 |-|--|-|
 
-```JavaScript
+```javascript
 function getRandomInspirationalQuote() {
   const quotes = [
     "Believe you can and you're halfway there. -Theodore Roosevelt",
